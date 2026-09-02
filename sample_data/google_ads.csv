@@ -1,1 +1,6 @@
-
+date,campaign_name,platform,impressions,clicks,cost,conversions,revenue
+2026-08-01,Meta_Conversions_US,Meta Ads,20000,600,450,40,2000
+2026-08-02,Meta_Conversions_US,Meta Ads,25000,700,500,48,2400
+2026-08-03,Meta_Retargeting_US,Meta Ads,18000,550,390,45,2250
+2026-08-04,Meta_Awareness_CA,Meta Ads,30000,500,600,20,1000
+2026-08-05,Meta_Conversions_UK,Meta Ads,22000,650,470,50,2500
